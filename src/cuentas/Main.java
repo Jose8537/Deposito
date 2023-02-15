@@ -5,7 +5,7 @@
 package cuentas;
 
 /**
- *
+ * 
  * @author jsaez
  */
 public class Main {
